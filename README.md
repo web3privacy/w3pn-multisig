@@ -2,6 +2,8 @@
 
 ## Deployments
 
+**Please do not use these addresses on other networks!** A separate multi-sig needs to be created for each network.
+
 | network | address | links |
 | --- | --- | --- |
 | Ethereum mainnet | `0x50927852076a6c93177E25e906d706981Af9e27A` | [Admin](https://app.safe.global/home?safe=eth:0x50927852076a6c93177E25e906d706981Af9e27A), [Etherscan](https://etherscan.io/address/0x50927852076a6c93177E25e906d706981Af9e27A) |
