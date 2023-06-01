@@ -7,6 +7,7 @@
 | network | address | links |
 | --- | --- | --- |
 | Ethereum mainnet | `0x50927852076a6c93177E25e906d706981Af9e27A` | [Admin](https://app.safe.global/home?safe=eth:0x50927852076a6c93177E25e906d706981Af9e27A), [Etherscan](https://etherscan.io/address/0x50927852076a6c93177E25e906d706981Af9e27A) |
+| Arbitrum One | `0x50927852076a6c93177E25e906d706981Af9e27A` | [Admin](https://app.safe.global/home?safe=arb:0x50927852076a6c93177E25e906d706981Af9e27A), [Arbiscan](https://arbiscan.io/address/0x50927852076a6c93177E25e906d706981Af9e27A) |
 
 ## Owners
 | name | address | ens |
